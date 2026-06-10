@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EnocaChallenge.API/EnocaChallenge.API.csproj" Id="70036070-0f95-4790-b0cf-f79759d4e699" />
+  <Project Path="EnocaChallenge.Dat/EnocaChallenge.Data.csproj" Id="fddfd287-285f-4f1a-aaea-9d3627792655" />
+  <Project Path="EnocaChallenge.Service/EnocaChallenge.Service.csproj" Id="0d3d5653-0c35-48b7-8ff8-7454d7a949ce" />
+  <Project Path="EnocaDotNetChallenge/EnocaChallenge.Core.csproj" Id="427feff7-bd5e-4474-bd44-4d68dd5c656c" />
+</Solution>
